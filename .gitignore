@@ -1,0 +1,16 @@
+# Originales y salidas (muestras de 65 MB+ no van al repo)
+*.MP4
+*.mp4
+*.MOV
+*.mov
+*.MXF
+*.mxf
+*.MTS
+*.mts
+*.M2TS
+*.m2ts
+RESOLVE_READY/
+conversion_*.log
+*.progress
+# Excepto el script, readme y xml de ejemplo
+!C0055M01.XML
